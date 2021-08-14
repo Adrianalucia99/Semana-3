@@ -1,0 +1,35 @@
+*{ 
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box; 
+ 
+}
+
+body{
+    background-color: rgba(255, 235, 205, 0);
+}
+.navegacion{
+    width: 1000px;
+    margin: 30px auto;
+    background-color: yellow;
+}
+.navegacion ul{
+    list-style: none;
+}
+.menu > li{
+    display: inline-block; 
+}
+.menu > li > a{
+    display: block;
+    padding: 15px 100px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.formulario2{
+    background-color: blue;
+    margin-top: 40px;
+
+    
+}
+
